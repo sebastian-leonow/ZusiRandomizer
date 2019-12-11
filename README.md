@@ -13,4 +13,5 @@ Hinweise:
 - Die Verspätungen sind für alle Halte gleichverteilt im Intervall zwischen 0 und 10 Minuten (anpassbar).
 - Jeder Zug wird zusätzlich mit einem "Grundrauschen", d.h. Verspätungen im Sekundenbereich versehen.
 - S-Bahnen werden aktuell nur mit dem Grundrauschen versehen, um die Fahrpläne nicht komplett zusammenbrechen zu lassen.
-- Getestet habe ich auf Köln-Düsseldorf und Augsburg-Donauwörth
+- Getestet habe ich auf Köln-Düsseldorf und Augsburg-Donauwörth.
+- Der Zusi interne Zufallsfaktor sollte gering (ggf. auf 0) eingestellt werden, sonst wird sich der Fahrplan schnell zufahren.
