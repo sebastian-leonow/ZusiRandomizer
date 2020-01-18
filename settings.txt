@@ -1,0 +1,5 @@
+path=C:\
+minutes=10
+seconds=50
+prozent=70
+zugarten=S
